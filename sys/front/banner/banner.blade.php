@@ -99,7 +99,7 @@
                         </div>
                         <div class="text">
                             <span class="top-text">Our Work</span>
-                            <h3>
+                            <h3 style="font-size: 18px">
                                 The PPURE Program
 
                             </h3>
@@ -120,7 +120,7 @@
                         </div>
                         <div class="text">
                             <span class="top-text">Our Work</span>
-                            <h3>Playful Futures
+                            <h3 style="font-size: 18px">Playful Futures
                             </h3>
                             <a href="#AboutUs">More Details</a>
                         </div>
@@ -139,7 +139,7 @@
                         </div>
                         <div class="text">
                             <span class="top-text">Our Work</span>
-                            <h3>Testing a Child Participation <br>
+                            <h3 style="font-size: 18px">Testing a Child Participation <br>
                                 Tool
                             </h3>
                             <a href="index.html">More Details</a>
