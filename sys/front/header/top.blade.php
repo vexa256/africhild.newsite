@@ -126,7 +126,7 @@
                                      <a href="#">Resources</a>
                                      <ul>
                                          <li>
-                                             <a target="_blank" href="https://blog.africhild.cloud/">Research</a>
+                                             <a target="_blank" href="https://blog.africhild.cloud/">Blog</a>
                                          </li>
 
                                          <li>
