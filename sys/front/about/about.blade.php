@@ -66,7 +66,7 @@
                               </div>
                           </div>
                           <div class="btn-box">
-                              <a href="about.html" class="theme-btn btn-one">Read More</a>
+                              <a href="{{ route('AfriChildOurWork') }}" class="theme-btn btn-one">Read More</a>
                           </div>
                       </div>
                   </div>
