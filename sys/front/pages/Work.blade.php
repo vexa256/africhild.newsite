@@ -70,10 +70,12 @@
                                <figure class="text-box rotate-me"><img
                                        src="https://www.svgrepo.com/show/527643/circle-top-down.svg" alt="">
                                </figure>
-                               <figure class="icon-box"><img src="ui/assets/images/icons/bird-1.png" alt="">
+                               <figure class="icon-box"><img src="{{ asset('ui/assets/images/icons/bird-1.png') }}"
+                                       alt="">
                                </figure>
                            </div>
-                           <figure class="icon-box"><img src="ui/assets/images/icons/heart-7.png" alt="">
+                           <figure class="icon-box"><img src="{{ asset('ui/assets/images/icons/heart-7.png') }}"
+                                   alt="">
                            </figure>
                            <div class="text">
                                <h4><i class="icon-donation-1"></i>10+ Years of Experience</h4>
@@ -84,7 +86,7 @@
                <section class="benefits-section">
                    <div class="pattern-layer"
                        style="
-                     background-image: url(ui/assets/images/shape/shape-15.png);
+                     background-image: url({{ asset('ui/assets/images/shape/shape-15.png') }});
                  ">
                    </div>
                    <div class="auto-container">
@@ -136,12 +138,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-13.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-14.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-14.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="icon">
@@ -187,12 +189,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-13.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-14.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-14.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="icon">
@@ -222,12 +224,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-13.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-14.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-14.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="icon">
@@ -275,12 +277,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-13.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                                     background-image: url(ui/assets/images/shape/shape-14.png);
+                                                     background-image: url(url({{ asset('ui/assets/images/shape/shape-14.png') }}));
                                                  ">
                                                    </div>
                                                    <div class="icon">
@@ -310,12 +312,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                                  background-image: url(ui/assets/images/shape/shape-15.png);
+                                                  background-image: url({{ asset('ui/assets/images/shape/shape-15.png') }});
                                               ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                                  background-image: url(ui/assets/images/shape/shape-13.png);
+                                                  background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                               ">
                                                    </div>
                                                    <div class="icon">
@@ -350,12 +352,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                               background-image: url(ui/assets/images/shape/shape-16.png);
+                                               background-image: url({{ asset('ui/assets/images/shape/shape-16.png') }});
                                            ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                               background-image: url(ui/assets/images/shape/shape-13.png);
+                                               background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                            ">
                                                    </div>
                                                    <div class="icon">
@@ -390,12 +392,12 @@
                                                <div class="icon-box">
                                                    <div class="shape"
                                                        style="
-                                            background-image: url(ui/assets/images/shape/shape-16.png);
+                                            background-image: url({{ asset('ui/assets/images/shape/shape-16.png') }});
                                         ">
                                                    </div>
                                                    <div class="shape-2"
                                                        style="
-                                            background-image: url(ui/assets/images/shape/shape-13.png);
+                                            background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }}));
                                         ">
                                                    </div>
                                                    <div class="icon">
@@ -428,10 +430,10 @@
                                                <span>08</span>
                                                <div class="icon-box">
                                                    <div class="shape"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-16.png); ">
+                                                       style=" background-image: url({{ asset('ui/assets/images/shape/shape-16.png') }}); ">
                                                    </div>
                                                    <div class="shape-2"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-13.png); ">
+                                                       style=" background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }})); ">
                                                    </div>
                                                    <div class="icon">
                                                        <i class="icon-house-with-heart-hand-drawn-building"></i>
@@ -480,10 +482,10 @@
                                                <span>9</span>
                                                <div class="icon-box">
                                                    <div class="shape"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-16.png); ">
+                                                       style=" background-image: url({{ asset('ui/assets/images/shape/shape-16.png') }}); ">
                                                    </div>
                                                    <div class="shape-2"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-13.png); ">
+                                                       style=" background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }})); ">
                                                    </div>
                                                    <div class="icon">
                                                        <i class="icon-house-with-heart-hand-drawn-building"></i>
@@ -525,10 +527,10 @@
                                                <span>10</span>
                                                <div class="icon-box">
                                                    <div class="shape"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-16.png); ">
+                                                       style=" background-image: url({{ asset('ui/assets/images/shape/shape-16.png') }}); ">
                                                    </div>
                                                    <div class="shape-2"
-                                                       style=" background-image: url(ui/assets/images/shape/shape-13.png); ">
+                                                       style=" background-image: url(url({{ asset('ui/assets/images/shape/shape-13.png') }})); ">
                                                    </div>
                                                    <div class="icon">
                                                        <i class="icon-house-with-heart-hand-drawn-building"></i>

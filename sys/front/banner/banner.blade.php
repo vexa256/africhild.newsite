@@ -84,8 +84,9 @@
     <div class="banner-thumbs-carousel">
         <div class="pattern-layer"
             style="
-                background-image: url(ui/assets/images/shape/shape-10.png);
-            "></div>
+                background-image: url({{ asset('ui/assets/images/shape/shape-10.png') }});
+            ">
+        </div>
         <div class="swiper-container banner-thumbs">
             <div class="swiper-wrapper">
                 <div class="swiper-slide">

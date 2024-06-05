@@ -94,9 +94,11 @@
                             style="background-image: url(https://plus.unsplash.com/premium_photo-1661373788628-411f09211c51?q=80&w=1469&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);">
                         </div>
                         <div class="icon-box">
-                            <div class="shape" style="background-image: url(ui/assets/images/shape/shape-13.png);">
+                            <div class="shape"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-13.png') }});">
                             </div>
-                            <div class="shape-2" style="background-image: url(ui/assets/images/shape/shape-14.png);">
+                            <div class="shape-2"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-14.png') }});">
                             </div>
                             <i class="icon-chatting"></i>
                         </div>
@@ -112,9 +114,11 @@
                             style="background-image: url(https://images.unsplash.com/photo-1521493959102-bdd6677fdd81?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);">
                         </div>
                         <div class="icon-box">
-                            <div class="shape" style="background-image: url(ui/assets/images/shape/shape-13.png);">
+                            <div class="shape"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-13.png') }});">
                             </div>
-                            <div class="shape-2" style="background-image: url(ui/assets/images/shape/shape-14.png);">
+                            <div class="shape-2"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-14.png') }});">
                             </div>
                             <i class="icon-loyalty"></i>
                         </div>
@@ -131,9 +135,11 @@
                             style="background-image: url(https://unsplash.com/photos/group-of-people-photo-SPS796v4KmMhttps://images.unsplash.com/photo-1509099896299-af46ad97ff57?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);">
                         </div>
                         <div class="icon-box">
-                            <div class="shape" style="background-image: url(ui/assets/images/shape/shape-13.png);">
+                            <div class="shape"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-14.png') }})">
                             </div>
-                            <div class="shape-2" style="background-image: url(ui/assets/images/shape/shape-14.png);">
+                            <div class="shape-2"
+                                style="background-image: url({{ asset('ui/assets/images/shape/shape-14.png') }})">
                             </div>
                             <i class="icon-search-1"></i>
                         </div>

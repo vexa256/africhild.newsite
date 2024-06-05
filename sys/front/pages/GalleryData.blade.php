@@ -3,7 +3,7 @@
     <div class="auto-container">
         <div class="content-box">
             <div class="title">
-                <h1>AfriChild Portifolio</h1>
+                <h1>AfriChild In Photos</h1>
             </div>
 
         </div>

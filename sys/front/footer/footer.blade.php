@@ -5,9 +5,9 @@
             <div class="inner-box clearfix">
                 <div class="left-column pull-left">
                     <div class="logo-box">
-                        <div class="shape" style="background-image: url(assets/images/shape/shape-1.png);"></div>
-                        <figure class="logo"><a href="index.html"><img src="assets/images/logo-3.png"
-                                    alt=""></a></figure>
+                        <div class="shape"
+                            style="background-image: url({{ asset('ui/assets/images/shape/shape-1.png') }});"></div>
+                        <figure class="logo"><a href="index.html"><img src="#" alt=""></a></figure>
                     </div>
                     <div class="text">
                         <h3><i class="icon-email-open-sketched-envelope"></i>Subscribe <br />Our Newsletter</h3>

@@ -1,10 +1,12 @@
 <!-- case-style-two -->
 <section class="case-style-two sec-pad">
     <div class="pattern-layer">
-        <div class="pattern-1" style="background-image: url(ui/assets/images/shape/shape-33.png);"></div>
-        <div class="pattern-2" style="background-image: url(ui/assets/images/shape/shape-34.png);"></div>
+        <div class="pattern-1" style="background-image: url(url({{ asset('ui/assets/images/shape/shape-33.png') }}));">
+        </div>
+        <div class="pattern-2" style="background-image: url(url({{ asset('ui/assets/images/shape/shape-34.png') }}));">
+        </div>
     </div>
-    <figure class="icon-layer"><img src="ui/assets/images/icons/heart-6.png" alt=""></figure>
+    <figure class="icon-layer"><img src="{{ asset('ui/assets/images/icons/heart-6.png') }}" alt=""></figure>
     <div class="auto-container">
         <div class="title-inner">
             <div class="row align-items-center clearfix">

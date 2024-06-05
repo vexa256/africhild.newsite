@@ -6,15 +6,22 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
 
-    <title>The AfriChild Center | Child Focused Research |
-        We are a Centre of Excellence in the study of the African child</title>
+    <title>
+        @if (isset($Title))
+            {{ $Title }} | {{ $Desc }}
+        @else
+            The AfriChild Center | Child Focused Research |
+            We are a Centre of Excellence in the study of the African child
+        @endif
+    </title>
 
     <!-- Fav Icon -->
-    <link rel="icon"
-        href="{{ asset('/images/favicon.ico" type="image/x-icon">
-                                                                                                                                                                                                                                                                
-                                                                                                                                                                                                                                                                    <!-- Google Fonts --><link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap') }}"
-        rel="stylesheet">
+    <link rel="icon" href="https://media.tghn.org/medialibrary/2023/12/AfriChild_Centre_Logo-removebg-preview.png"
+        type="image/png">
+
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500;600;700&display=swap') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
         rel="stylesheet">
     <link

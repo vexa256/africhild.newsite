@@ -11,7 +11,8 @@
                                       src="{{ asset('https://www.svgrepo.com/show/528895/circle-bottom-down.svg') }}"
                                       alt="">
                               </figure>
-                              <figure class="icon-box"><img src="assets/images/icons/bird-1.png" alt="">
+                              <figure class="icon-box"><img src="{{ asset('ui/assets/images/icons/bird-1.png') }}"
+                                      alt="">
                               </figure>
                           </div>
                           <div class="chart-box">

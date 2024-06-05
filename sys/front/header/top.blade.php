@@ -4,8 +4,9 @@
      <div class="logo-box">
          <div class="shape"
              style="
-                background-image: url(assets/images/shape/shape-1.png);
-            "></div>
+                background-image: url({{ asset('ui/assets/images/shape/shape-1.png') }});
+            ">
+         </div>
          <figure class="logo">
              <a href="#"><img
                      src="https://media.tghn.org/medialibrary/2023/12/AfriChild_Centre_Logo-removebg-preview.png"
@@ -66,7 +67,7 @@
              <div class="outer-box">
                  <div class="text">
                      <figure class="icon-box">
-                         <img src="assets/images/icons/heart-1.png" alt="" />
+                         <img src="{{ asset('ui/assets/images/icons/heart-1.png') }}" alt="" />
                      </figure>
                      <span>Become a Volunteer</span>
                  </div>
