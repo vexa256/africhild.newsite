@@ -25,7 +25,7 @@
                                        alt=""></li>
                            </ul>
                            <div class="text">
-                               <p>TThe AfriChild Center is a leading research institution
+                               <p>The AfriChild Center is a leading research institution
                                    dedicated to improving children's lives in Africa. Established in 2013, it focuses on
                                    generating high-quality research to inform policies and practices related to child
                                    welfare, protection, education, and health. AfriChild emphasizes evidence-based
