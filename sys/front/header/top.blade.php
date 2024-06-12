@@ -158,11 +158,15 @@
                                          </li>
 
                                          <li>
-                                             <a href="#">AfriChild Analytics</a>
+                                             <a href="https://africhild.cloud">AfriChild Analytics</a>
                                          </li>
 
                                          <li>
-                                             <a href="#">AfriChild Projects</a>
+                                             <a href="https://docs.africhild.cloud">Activity Calendar</a>
+                                         </li>
+
+                                         <li>
+                                             <a href="https://africhild.cloud">AfriChild Projects</a>
                                          </li>
                                      </ul>
                                  </li>
