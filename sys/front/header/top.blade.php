@@ -148,7 +148,7 @@
                                      <a href="#">Staff Area</a>
                                      <ul>
                                          <li>
-                                             <a href="http://africhild.cloud">HRM</a>
+                                             <a href="https://hrm.africhild.cloud">HRM</a>
                                          </li>
                                          <li>
                                              <a href="https://africhild.or.ug/CmsHome">Web Admin</a>
