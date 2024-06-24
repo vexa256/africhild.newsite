@@ -82,7 +82,7 @@
                                      <a href="#">Resources</a>
                                      <ul>
                                          <li>
-                                             <a target="_blank" href="https://blog.africhild.cloud/">Blog</a>
+                                             <a href="#">Blog</a>
                                          </li>
 
                                          <li>
