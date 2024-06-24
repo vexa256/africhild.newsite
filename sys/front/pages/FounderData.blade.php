@@ -2,23 +2,26 @@
 <section class="sidebar-page-container">
     <div class="auto-container">
         <div class="row clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Advisory Board Chair
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">Advisory
+                                Board Chair
                             </span>
-                            <h2>Professor Edward Kirumira
+                            <h2 style="font-size:20px">Professor Edward Kirumira
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1645310112.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645310112.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>Prof. Edward K. Kirumira Is The Professor Of Medical Sociology And Director, Stellenbosch
@@ -70,25 +73,28 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>DrPH - Columbia University
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">DrPH
+                                - Columbia University
                             </span>
-                            <h2>Dr. Lindsay Stark
+                            <h2 style="font-size:20px">Dr. Lindsay Stark
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1684084835_Dr.%20Lindsay%20Stark.png"
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1684084835_Dr.%20Lindsay%20Stark.png"
                                 alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -118,26 +124,28 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Chief Executive Officer Of REPPSI- South Africa
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">Chief
+                                Executive Officer Of REPPSI- South Africa
                             </span>
-                            <h2>Mr. Patrick Onyango
+                            <h2 style="font-size:20px">Mr. Patrick Onyango
 
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1684084645_Patrick%20O.png"
-                                alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1684084645_Patrick%20O.png" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -174,26 +182,29 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span> Country Director, ChildFund International-Zambia
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">
+                                Country Director, ChildFund International-Zambia
 
                             </span>
-                            <h2>Mr. Simba Machingaidze
+                            <h2 style="font-size:20px">Mr. Simba Machingaidze
 
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1645310294.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645310294.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -222,27 +233,30 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span> Chief, Social Policy And Evaluation UNICEF, Kampala
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">
+                                Chief, Social Policy And Evaluation UNICEF, Kampala
 
                             </span>
-                            <h2>Dr. Diego Angemi
+                            <h2 style="font-size:20px">Dr. Diego Angemi
 
 
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1662633988.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1662633988.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -265,28 +279,31 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span> CDirector ICHAD
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">
+                                CDirector ICHAD
 
                             </span>
-                            <h2>Prof Fred M. Ssewamala
+                            <h2 style="font-size:20px">Prof Fred M. Ssewamala
 
 
 
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1661509609.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1661509609.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -324,14 +341,16 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span> Founder
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">
+                                Founder
 
                             </span>
-                            <h2> Mr. James Ssembatya Kaboggoza
+                            <h2 style="font-size:20px"> Mr. James Ssembatya Kaboggoza
 
 
 
@@ -339,14 +358,15 @@
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1645310450.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645310450.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -377,17 +397,19 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Founding Director, Global Center for the Development of the Whole Child
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">Founding
+                                Director, Global Center for the Development of the Whole Child
 
 
 
 
                             </span>
-                            <h2> Dr Neil Boothby
+                            <h2 style="font-size:20px"> Dr Neil Boothby
                                 <br>
 
 
@@ -399,14 +421,15 @@
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1662633148.jpg" alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1662633148.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>
@@ -437,14 +460,16 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Executive Director - The AfriChild Centre
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">Executive
+                                Director - The AfriChild Centre
 
                             </span>
-                            <h2> Mr Timothy Opobo
+                            <h2 style="font-size:20px"> Mr Timothy Opobo
 
 
 
@@ -454,15 +479,16 @@
 
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i>By AfriChild</li>
-                                <li><i class="far fa-comment"></i>#AfriChildFounders</li>
-                                <li><i class="far fa-eye"></i>#FoundingMember</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img src="https://www.africhild.or.ug/assets/docs/1684084373_Timothy%20Opobo.png"
+                            <img class="constant-height-image" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1684084373_Timothy%20Opobo.png"
                                 alt="">
-                            <span class="post-date">#AfriChildFounders</span>
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>

@@ -2,25 +2,25 @@
 <section class="sidebar-page-container">
     <div class="auto-container">
         <div class="row clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span> Promoting Partner
-                            </span>
-                            <h2> Makerere University</h2>
+                            <span
+                                style="font-family: inherit; font-size: 14px; font-weight: 900; font-style: normal; color: #f5429b;">
+                                Makerere University </span>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh" src="https://www.africhild.or.ug/assets/docs/1645386764.jpg"
-                                alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+                            <img style="height:60vh" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645386764.jpg" alt="">
+
                         </figure>
-                        <div class="text" style="overflow-y:scroll; height:300px">>
+                        <div class="text" style="overflow-y:scroll; height:300px">
                             <p>CHUSS hosts to The AfriChild Centre, is the largest of the nine Colleges of Makerere
                                 University, with five schools and one institute. The University is the lead public
                                 university in Uganda and one of the oldest on the African continent, having been
@@ -41,23 +41,28 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Promoting Partner
+                            <span
+                                style="font-family:
+                                 inherit; font-size: 14px;
+                                  font-weight: 900; font-style:
+                                   normal; color: #f5429b;">ChildFund
+                                International
 
                             </span>
-                            <h2>ChildFund International </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh" src="https://www.africhild.or.ug/assets/docs/c.png" alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+                            <img style="height:60vh" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/c.png" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>https://www.childfund.org/ChildFund International is one of the oldest Non-Governmental
@@ -80,28 +85,32 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Promoting Partner
+                            <span
+                                style="font-family: 
+                                inherit; font-size: 14px; 
+                                font-weight: 900; font-style: 
+                                normal; color: #f5429b;">Ministry
+                                Of Gender, Labour And Social Development
 
                             </span>
-                            <h2>Ministry Of Gender, Labour And Social Development
-                            </h2>
+
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh"
+                            <img style="height:60vh" class="constant-height-image"
                                 src="https://www.africhild.or.ug/assets/docs/1688014898_Ministry%20of%20Gender%20Labour%20&%20Social%20Dev't.png"
                                 alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+
                         </figure>
-                        <div class="text" style="overflow-y:scroll; height:300px">>
+                        <div class="text" style="overflow-y:scroll; height:300px">
                             <p>MoGLSD is the line Ministry responsible for championing the development and
                                 implementation of initiatives aimed at advancing knowledge and improving the
                                 effectiveness of responses targeting children in adversity. In the execution of its
@@ -122,28 +131,33 @@
             </div>
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Promoting Partner
+                            <span
+                                style="font-family: 
+                                inherit; font-size: 14px; 
+                                font-weight: 900; font-style: 
+                                normal; color: #f5429b;">The
+                                United Nations Children’s Fund
+
 
                             </span>
-                            <h2>The United Nations Children’s Fund
-
+                            <h2 style="font-size:16px">
                             </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh" src="https://www.africhild.or.ug/assets/docs/1645386929.png"
-                                alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+                            <img style="height:60vh" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645386929.png" alt="">
+
                         </figure>
-                        <div class="text" style="overflow-y:scroll; height:300px">>
+                        <div class="text" style="overflow-y:scroll; height:300px">
                             <p>The United Nations Children’s Fund is the driving force that helps build a world where
                                 the rights of every child are realized. UNICEF aims to overcome the obstacles that
                                 poverty, violence, disease, and discrimination place in a child’s path. Together with
@@ -164,26 +178,28 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Promoting Partner
+                            <span
+                                style="font-family: inherit;
+                                 font-size: 14px; font-weight:
+                                  900; font-style: normal; color: #f5429b;">TPO
+                                Uganda Uganda
 
                             </span>
-                            <h2>TPO Uganda Uganda
 
-                            </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh" src="https://www.africhild.or.ug/assets/docs/1645386948.jpg"
-                                alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+                            <img style="height:60vh" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645386948.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>TPO Uganda is a national Ugandan Non-Governmental Organization that has been operating in
@@ -209,27 +225,29 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>Promoting Partner
+                            <span
+                                style="font-family: 
+                                inherit; font-size: 14px; 
+                                font-weight: 900; font-style: 
+                                normal; color: #f5429b;">Columbia
+                                University USA
 
                             </span>
-                            <h2>Columbia University USA
 
-
-                            </h2>
                             <ul class="post-info clearfix">
-                                <li><i class="far fa-user"></i></li>
-                                <li><i class="far fa-comment"></i>#AfriChildPartner</li>
-                                <li><i class="far fa-eye"></i>#Partner</li>
+
+
+
                             </ul>
                         </div>
                         <figure class="image-box">
-                            <img style="height:60vh" src="https://www.africhild.or.ug/assets/docs/1645386899.jpg"
-                                alt="">
-                            <span class="post-date">#AfriChildPartner</span>
+                            <img style="height:60vh" class="constant-height-image"
+                                src="https://www.africhild.or.ug/assets/docs/1645386899.jpg" alt="">
+
                         </figure>
                         <div class="text" style="overflow-y:scroll; height:300px">
                             <p>Columbia University, New York, is a world-renowned university in the United States of

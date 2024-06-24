@@ -45,5 +45,48 @@
         html {
             scroll-behavior: smooth;
         }
+
+        /* Custom scrollbar styles */
+        ::-webkit-scrollbar {
+            width: 12px;
+            /* Width of the scrollbar */
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #f0f0f0;
+            /* Background of the scrollbar track (rail) */
+            border-radius: 10px;
+            /* Rounded corners for the track */
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background-color: #f5429b;
+            /* Scrollbar color */
+            border-radius: 10px;
+            /* Rounded corners for the scrollbar thumb */
+            border: 3px solid #f0f0f0;
+            /* Padding around the thumb for better contrast */
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background-color: #e03184;
+            /* Scrollbar color on hover */
+        }
+
+        /* For Firefox */
+        html {
+            scrollbar-width: thin;
+            scrollbar-color: #f5429b #f0f0f0;
+        }
+
+
+        .constant-height-image {
+            height: 50.5vh !important;
+            /* Set the desired height */
+            width: auto !important;
+            /* Maintain the aspect ratio */
+            object-fit: cover !important;
+            /* Cover the container without distortion */
+        }
     </style>
 </head>

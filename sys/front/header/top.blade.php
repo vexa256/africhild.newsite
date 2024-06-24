@@ -1,5 +1,5 @@
  <!-- main header -->
- <header class="main-header header-style-one">
+ <header class="main-header header-style-one" style="">
      <!-- logo-box -->
      <div class="logo-box">
          <div class="shape"
@@ -15,51 +15,7 @@
      </div>
      <!-- header-top -->
      <div class="header-top">
-         {{-- <div class="outer-container">
-             <div class="top-inner clearfix">
-                 <div class="left-column pull-left">
-                     <ul class="info-list clearfix">
-                         <li>
-                             <i class="icon-chat"></i>
-                             <span>Helpline:</span>
-                             <a href="tel:23345678901">+233 456 789 01</a>
-                         </li>
-                         <li>
-                             <a href="mailto:example@info.com">example@info.com</a>
-                         </li>
-                         <li>54 Berrick St Boston MA 02115.</li>
-                     </ul>
-                 </div>
-                 <div class="right-column pull-right">
-                     <div class="update-news">
-                         <p>
-                             <i class="icon-megaphone"></i><span>Updates:</span> Delivers Personal
-                             Protective Equipments to North Macedonia
-                             . . .
-                         </p>
-                     </div>
-                     <div class="language-box">
-                         <span>En</span>
-                         <ul class="language-list clearfix">
-                             <li>
-                                 <a href="index.html">English</a>
-                             </li>
-                             <li>
-                                 <a href="index.html">Spanish</a>
-                             </li>
-                             <li><a href="index.html">Chines</a></li>
-                             <li><a href="index.html">Turky</a></li>
-                         </ul>
-                     </div>
-                 </div>
-             </div>
-         </div>
-         <!-- donate-btn -->
-         <div class="donate-btn">
-             <button class="donate-box-btn theme-btn btn-one">
-                 Donate Now
-             </button>
-         </div> --}}
+
      </div>
      <!-- header-lower -->
      <div class="header-lower">

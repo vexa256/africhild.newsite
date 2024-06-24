@@ -19,7 +19,7 @@
 
             <div class="items-container row clearfix">
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606171.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -33,7 +33,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606470.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -51,7 +51,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606021.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -67,7 +67,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606113.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -84,7 +84,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606074.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -111,7 +111,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606090.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -130,7 +130,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606145.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -150,7 +150,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1645367707.png" class="lightbox-image"
                             data-fancybox="gallery">
@@ -171,7 +171,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659605968.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -193,7 +193,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606263.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -210,7 +210,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606340.jpg" class="lightbox-image"
                             data-fancybox="gallery">
@@ -228,7 +228,7 @@
 
 
                 <div
-                    class="col-lg-6 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
+                    class="col-lg-4 col-md-6 col-sm-12 masonry-item small-column all education activities awareness helping">
                     <figure class="image-box">
                         <a href="https://www.africhild.or.ug/assets/docs/1659606390.jpg" class="lightbox-image"
                             data-fancybox="gallery">

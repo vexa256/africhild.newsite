@@ -2,12 +2,12 @@
 <section class="sidebar-page-container">
     <div class="auto-container">
         <div class="row clearfix">
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Ms Margaret Kakande </h2>
+
+                            <h2 style="font-size:20px">Ms Margaret Kakande </h2>
                             <ul class="post-info clearfix">
                                 <li><i class="far fa-user"></i>By AfriChild</li>
                                 <li><i class="far fa-comment"></i>#AfriChildBoard</li>
@@ -19,7 +19,7 @@
                                 alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>Mrs. Kakande is the head of the budget monitoring and accountability unit in the Ministry
                                 of Finance, Planning, and Economic Development. She holds an MD in Development Economics
                                 from the University of East Anglia in the UK; a Bachelor of Statistics from Makerere
@@ -37,12 +37,12 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Dr Lynn Atuyambe
+
+                            <h2 style="font-size:20px">Dr Lynn Atuyambe
                             </h2>
                             <ul class="post-info clearfix">
                                 <li><i class="far fa-user"></i>By AfriChild</li>
@@ -54,7 +54,7 @@
                             <img src="https://www.africhild.or.ug/assets/docs/1684155021_Lyn-01-01.jpg" alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>Prof. Atuyambe is an associate professor at Makerere University School of Public Health.
                                 He holds a Ph.D. in Public Health Sciences from Karolinska Institutet in Stockholm,
                                 Sweden; an MD in Public Health, and a Bachelor of Arts. Dr. Atuyambe is the managing
@@ -71,12 +71,12 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Ms Stella Ayo-Odongo
+
+                            <h2 style="font-size:20px">Ms Stella Ayo-Odongo
 
                             </h2>
                             <ul class="post-info clearfix">
@@ -90,7 +90,7 @@
                                 alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>Stella Ayo-Odongo is the Director for Pathfinding Countries, Global Partnership to End
                                 Violence Against Children. Stella is a motivated leader and development practitioner
                                 with over 20 years of progressive experience in strategic leadership, development
@@ -112,12 +112,12 @@
 
                 </div>
             </div>
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Ms Emily Gakiza
+
+                            <h2 style="font-size:20px">Ms Emily Gakiza
 
 
                             </h2>
@@ -132,7 +132,7 @@
                                 alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>
 
                                 Gakiza is a senior legal counsel with Capital Law Partners and Advocates. She holds a
@@ -158,12 +158,12 @@
 
 
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Ms Judy Kamanyi
+
+                            <h2 style="font-size:20px">Ms Judy Kamanyi
 
 
 
@@ -179,7 +179,7 @@
                                 alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>
 
                                 Kamanyi currently works as an independent consultant. She holds an MD in Peace and
@@ -201,12 +201,12 @@
                 </div>
             </div>
 
-            <div class="col-lg-6 col-md-12 col-sm-12 content-side">
+            <div class="col-lg-4 col-md-12 col-sm-12 content-side">
                 <div class="blog-details-content">
                     <div class="content-one">
                         <div class="upper-box">
-                            <span>AfriChild Board Member</span>
-                            <h2>Dr Cleophus Mugenyi
+
+                            <h2 style="font-size:20px">Dr Cleophus Mugenyi
 
 
 
@@ -223,7 +223,7 @@
                                 alt="">
                             <span class="post-date">#AfriChildBoard</span>
                         </figure>
-                        <div class="text">
+                        <div class="text" style="height:40vh; overflow-y:scroll">
                             <p>
                                 Dr. Cleophus Mugenyi is the Commissioner of Teacher Education Standards at the Ministry
                                 of Education and Sports. He holds a Ph.D. in Education Policy and Institutional

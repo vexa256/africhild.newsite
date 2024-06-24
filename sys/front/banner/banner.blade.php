@@ -9,10 +9,12 @@
                         ">
                     </div>
                     <div class="auto-container">
-                        <div class="content-box">
+                        <div class="content-box"
+                            style="background-color: rgba(0,0,0,0.6) !important; padding-left:10px;  padding-right:10px;  padding-bottom:10px; border-radius:9px">
                             <h2>Empowering Africa's <br>
                                 Children, </h2>
-                            <span>Building a Brighter Africa</span>
+                            <span style="font-weight: bolder; font-style: normal; font-size: 2em;">Building a Brighter
+                                Africa</span>
                             <p>AfriChild champions the well-being of African children through research, advocacy, and
                                 capacity building.</p>
                             <div class="btn-box">
@@ -31,7 +33,8 @@
                         ">
                     </div>
                     <div class="auto-container">
-                        <div class="content-box">
+                        <div class="content-box"
+                            style="background-color: rgba(0,0,0,0.6) !important; padding-left:10px;  padding-right:10px;  padding-bottom:10px; border-radius:9px">
                             <h2>Building a Brighter Future, </h2>
                             <span>One Child at a Time</span>
                             <p>AfriChild empowers stakeholders and advocates for policies that prioritize child
@@ -54,10 +57,13 @@
                         ">
                     </div>
                     <div class="auto-container">
-                        <div class="content-box">
+                        <div class="content-box"
+                            style="background-color: rgba(0,0,0,0.6) !important; padding-left:10px;  padding-right:10px;  padding-bottom:10px; border-radius:9px">
                             <h2>Building Capacity <br>
                                 and </h2>
-                            <span>Empowering Changemakers</span>
+                            <span style="font-weight: bolder; font-style: normal; font-size: 2em;">Empowering
+                                Changemakers</span>
+
                             <p>AfriChild equips stakeholders with knowledge and skills to advocate for children's rights
                                 across Africa.</p>
                             <div class="btn-box">
@@ -98,7 +104,7 @@
                             <span>01</span>
                         </div>
                         <div class="text">
-                            <span class="top-text">Our Work</span>
+                            <span class="top-text" style="background-color: rgba(0,0,0,0.6)">Our Work</span>
                             <h3 style="font-size: 18px">
                                 The PPURE Program
 

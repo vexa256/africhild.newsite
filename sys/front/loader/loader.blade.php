@@ -1,4 +1,4 @@
-<!-- preloader -->
+{{-- <!-- preloader -->
 <div class="loader-wrap">
     <div class="preloader">
         <div class="preloader-close">x</div>
@@ -38,4 +38,4 @@
         </div>
     </div>
 </div>
-<!-- preloader end -->
+<!-- preloader end --> --}}
