@@ -5,7 +5,8 @@
         <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
 
         <div class="logo-box">
-            <a href="index.html" aria-label="logo image"><img src="{{ asset('assets/images/logo-light.png') }}"
+            <a href="{{ url('/') }}" aria-label="logo image"><img
+                    src="https://hub.africhild.cloud/uploads/images/system/2023-11/D5DoQ4isOzQfL0RJ-africhild-centre-logo-smaller.png"
                     width="155" alt="" /></a>
         </div>
         <!-- /.logo-box -->
@@ -15,34 +16,35 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:needhelp@careox.com">needhelp@careox.com</a>
+                <a href="mailto:info@africhild.or.ug">info@africhild.or.ug</a>
             </li>
             <li>
                 <i class="fa fa-phone-alt"></i>
-                <a href="tel:666-888-0000">666 888 0000</a>
+                <a href="tel:+256414532482">+256414532482</a>
             </li>
         </ul>
         <!-- /.mobile-nav__contact -->
         <div class="mobile-nav__social">
-            <a href="https://facebook.com/" style="--accent-color: #ffa415">
+            <a href="https://facebook.com/AfriChildCentre" style="--accent-color: #ffa415">
                 <i class="fab fa-facebook-f" aria-hidden="true"></i>
                 <span class="sr-only">Facebook</span>
             </a>
-            <a href="https://twitter.com/" style="--accent-color: #fc5528">
+            <a href="https://twitter.com/AfriChildCentre" style="--accent-color: #fc5528">
                 <i class="fab fa-twitter" aria-hidden="true"></i>
                 <span class="sr-only">Twitter</span>
             </a>
-            <a href="https://pinterest.com/" style="--accent-color: #8139e7">
+            <a href="https://pinterest.com/AfriChildCentre" style="--accent-color: #8139e7">
                 <i class="fab fa-pinterest-p" aria-hidden="true"></i>
                 <span class="sr-only">Pinterest</span>
             </a>
-            <a href="https://instagram.com/" style="--accent-color: #44c895">
+            <a href="https://instagram.com/AfriChildCentre" style="--accent-color: #44c895">
                 <i class="fab fa-instagram" aria-hidden="true"></i>
                 <span class="sr-only">Instagram</span>
             </a>
         </div>
         <!-- /.mobile-nav__social -->
     </div>
+
     <!-- /.mobile-nav__content -->
 </div>
 <!-- /.mobile-nav__wrapper -->
@@ -83,36 +85,36 @@
         <ul class="sidebar-one__info">
             <li>
                 <span class="fas fa-map-marker-alt"></span>
-                85 Ketch Harbour RoadBensalem, PA 19020
+                Plot 196 Kigobe Road - Ntinda, Kampala, Uganda
             </li>
             <li>
                 <span class="fas fa-envelope"></span>
-                <a href="mailto:needhelp@company.com">needhelp@company.com</a>
+                <a href="mailto:info@africhild.or.ug">info@africhild.or.ug</a>
             </li>
             <li>
                 <span class="fas fa-phone-alt"></span>
-                <a href="tel:09969569535">099 695 695 35</a>
+                <a href="tel:+256414532482">+256414532482</a>
             </li>
         </ul>
         <div class="sidebar-one__social">
-            <a href="https://facebook.com/" style="--accent-color: #ffa415">
+            <a href="https://facebook.com/AfriChildCentre" style="--accent-color: #ffa415">
                 <i class="fab fa-facebook-f" aria-hidden="true"></i>
                 <span class="sr-only">Facebook</span>
             </a>
-            <a href="https://twitter.com/" style="--accent-color: #fc5528">
+            <a href="https://twitter.com/AfriChildCentre" style="--accent-color: #fc5528">
                 <i class="fab fa-twitter" aria-hidden="true"></i>
                 <span class="sr-only">Twitter</span>
             </a>
-            <a href="https://pinterest.com/" style="--accent-color: #8139e7">
+            <a href="https://pinterest.com/AfriChildCentre" style="--accent-color: #8139e7">
                 <i class="fab fa-pinterest-p" aria-hidden="true"></i>
                 <span class="sr-only">Pinterest</span>
             </a>
-            <a href="https://instagram.com/" style="--accent-color: #44c895">
+            <a href="https://instagram.com/AfriChildCentre" style="--accent-color: #44c895">
                 <i class="fab fa-instagram" aria-hidden="true"></i>
                 <span class="sr-only">Instagram</span>
             </a>
         </div>
-        <!-- /sidebar-one__socila -->
+        <!-- /sidebar-one__social -->
         <h4 class="sidebar-one__title">Newsletter:</h4>
         <form action="#" data-url="MAILCHIMP_FORM_URL" class="sidebar-one__newsletter mc-form">
             <input type="text" name="EMAIL" placeholder="Email address" />
@@ -124,6 +126,7 @@
     </div>
     <!-- /.sidebar__content -->
 </aside>
+
 <!-- Sidebar One Start -->
 
 <a href="{{ url('/') }}" data-target="html" class="scroll-to-target scroll-to-top">
@@ -131,8 +134,7 @@
     <span class="scroll-to-top__wrapper"><span class="scroll-to-top__inner"></span></span>
 </a>
 
-<script src="{{ asset('https://code.jquery.com/jquery-3.7.1.min.js') }}"
-    integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
 
 <script src="{{ asset('assets/vendors/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
 <script src="{{ asset('assets/vendors/bootstrap-select/bootstrap-select.min.js') }}"></script>

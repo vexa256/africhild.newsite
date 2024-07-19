@@ -2,7 +2,7 @@
     <div class="container-fluid">
         <div class="main-header__inner">
             <div class="main-header__logo">
-                <a href="index.html">
+                <a href="{{ url('/') }}">
                     <img src="https://hub.africhild.cloud/uploads/images/system/2023-11/D5DoQ4isOzQfL0RJ-africhild-centre-logo-smaller.png"
                         alt="Careox HTML" width="223" />
                 </a>
