@@ -8,7 +8,7 @@
             <!-- /.sec-title__tagline -->
 
             <h3 class="sec-title__title bw-split-in-left">
-                Disover more about AfriChild
+                Discover more about AfriChild
             </h3>
             <!-- /.sec-title__title -->
         </div>
